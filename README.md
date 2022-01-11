@@ -1,1 +1,1 @@
-# lhd-2022-daily-challenges
+For submitting the daily challenges completed during LHD 2022
